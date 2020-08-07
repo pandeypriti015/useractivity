@@ -5,8 +5,6 @@ users from a mock API server.
 
 # How to use?
 
-After login it has user details
-
 On clicking on any user, a modal will appear which displays
 all the time ranges during which they were active on that day
 
